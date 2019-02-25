@@ -1,1 +1,1 @@
-Small-Project-Site
+The purpose of this website is to practice CSS Animations & Responsive Design
